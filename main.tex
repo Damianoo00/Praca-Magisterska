@@ -1,0 +1,87 @@
+% Template authors: Bogumił Kamiński and Michał Jakubczyk
+\documentclass[12pt,a4paper,twoside,openany]{book}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[polish]{babel}
+\usepackage{csquotes}
+\usepackage{graphicx}
+\usepackage{times}
+\usepackage{indentfirst}
+\usepackage[left=3cm,right=2cm,top=2.5cm,bottom=2.5cm]{geometry}
+\usepackage{enumitem}
+\usepackage{color}
+\usepackage{soul}
+\usepackage{tikz}
+\usepackage{url}
+\usepackage{todonotes}
+\usepackage{verbatim}
+
+%\usepackage[square,authoryear]{natbib} % kluczowe
+\usepackage[backend=biber,style=authoryear,sorting=nyt]{biblatex}
+\addbibresource{bibliografia.bib}
+\setlist{itemsep=0pt}
+\setlist{nolistsep}
+\frenchspacing
+\linespread{1.3}
+\addto\captionspolish{%
+\renewcommand*\listtablename{Spis tabel}
+\renewcommand*\tablename{Tabela}
+}
+\usepackage{titlesec}
+\titlelabel{\thetitle.\quad}
+
+\frenchspacing
+
+\begin{document}
+
+\include{title_page}
+
+\thispagestyle{empty}
+
+\clearpage
+\thispagestyle{empty}
+\mbox{}
+% druga strona będzie pusta, ponieważ drukujemy dwustronnie
+% a mbox jest po to, żeby ta strona się pokazała
+% od procenta robimy komentarze
+\clearpage
+
+\tableofcontents
+
+\clearpage
+
+\include{wprowadzenie}
+
+\include{forex}
+
+\include{spekulacja}
+
+% \clearpage
+
+% \include{analiza_literatury}
+
+% \clearpage
+
+% \include{prototyp}
+
+% \clearpage
+
+% \include{podsumowanie}
+
+\clearpage
+\include{bibliografia}
+
+\clearpage
+\include{spis_rysunków}
+
+\clearpage
+\include{spis_tabel}
+
+\appendix
+\include{kody_źródłowe}
+
+\clearpage
+
+\include{streszczenie}
+
+\end{document}

@@ -1,0 +1,24 @@
+\babel@toc {polish}{}\relax 
+\contentsline {chapter}{\numberline {1}Rynek walutowy}{5}{}%
+\contentsline {section}{\numberline {1.1}Historia i rozwój rynku walutowego}{5}{}%
+\contentsline {subsection}{\numberline {1.1.1}Starożytność}{5}{}%
+\contentsline {subsection}{\numberline {1.1.2}Średniowiecze}{5}{}%
+\contentsline {subsection}{\numberline {1.1.3}XX wiek}{6}{}%
+\contentsline {section}{\numberline {1.2}Charakterystyka rynku Forex}{7}{}%
+\contentsline {subsection}{\numberline {1.2.1}Struktura i organizacja}{7}{}%
+\contentsline {subsection}{\numberline {1.2.2}Mechanizm działania rynku}{8}{}%
+\contentsline {subsection}{\numberline {1.2.3}Czynniki kształtujące kursy walutowe}{11}{}%
+\contentsline {subsection}{\numberline {1.2.4}Statystyki i znaczenie rynku Forex}{11}{}%
+\contentsline {chapter}{\numberline {2}Spekulacja na rynku walutowym}{16}{}%
+\contentsline {section}{\numberline {2.1}Istota spekulacji}{16}{}%
+\contentsline {section}{\numberline {2.2}Typy spekulantów}{18}{}%
+\contentsline {section}{\numberline {2.3}Strategie spekulacji}{18}{}%
+\contentsline {section}{\numberline {2.4}Metody analizy rynku walutowego}{19}{}%
+\contentsline {section}{\numberline {2.5}Psychologiczne aspekty spekulacji i zarządzanie emocjami}{21}{}%
+\contentsline {section}{\numberline {2.6}Motywy podejmowania spekulacji}{22}{}%
+\contentsline {section}{\numberline {2.7}Zarządzanie ryzykiem w strategiach spekulacyjnych}{23}{}%
+\contentsline {section}{\numberline {2.8}Etyczne i regulacyjne aspekty spekulacji walutowej}{24}{}%
+\contentsline {chapter}{Spis rysunków}{27}{}%
+\contentsline {chapter}{Spis tabel}{28}{}%
+\contentsline {chapter}{Kody źródłowe}{29}{}%
+\contentsline {chapter}{Streszczenie}{30}{}%

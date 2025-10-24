@@ -1,0 +1,575 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{aldridge2013}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=67e2fcebe410977b0ecf8cad57c68fee}{%
+           family={Aldridge},
+           familyi={A\bibinitperiod},
+           given={Irene},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{67e2fcebe410977b0ecf8cad57c68fee}
+      \strng{fullhash}{67e2fcebe410977b0ecf8cad57c68fee}
+      \strng{bibnamehash}{67e2fcebe410977b0ecf8cad57c68fee}
+      \strng{authorbibnamehash}{67e2fcebe410977b0ecf8cad57c68fee}
+      \strng{authornamehash}{67e2fcebe410977b0ecf8cad57c68fee}
+      \strng{authorfullhash}{67e2fcebe410977b0ecf8cad57c68fee}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems}
+      \field{year}{2013}
+    \endentry
+    \entry{bis2022}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3bbe27522adfc70dba770e3595517a0f}{%
+           family={{Bank for International Settlements (BIS)}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{3bbe27522adfc70dba770e3595517a0f}
+      \strng{fullhash}{3bbe27522adfc70dba770e3595517a0f}
+      \strng{bibnamehash}{3bbe27522adfc70dba770e3595517a0f}
+      \strng{authorbibnamehash}{3bbe27522adfc70dba770e3595517a0f}
+      \strng{authornamehash}{3bbe27522adfc70dba770e3595517a0f}
+      \strng{authorfullhash}{3bbe27522adfc70dba770e3595517a0f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Triennial Central Bank Survey: Foreign Exchange Turnover in April 2022}
+      \field{year}{2022}
+    \endentry
+    \entry{barberis2003}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fa08e0e081b644c1db857cf040be9d3a}{%
+           family={Barberis},
+           familyi={B\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ea4d2b6f99a522a66b1b929473633d0}{%
+           family={Thaler},
+           familyi={T\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{05a2b6abff05583f52daee7fb6449571}
+      \strng{fullhash}{05a2b6abff05583f52daee7fb6449571}
+      \strng{bibnamehash}{05a2b6abff05583f52daee7fb6449571}
+      \strng{authorbibnamehash}{05a2b6abff05583f52daee7fb6449571}
+      \strng{authornamehash}{05a2b6abff05583f52daee7fb6449571}
+      \strng{authorfullhash}{05a2b6abff05583f52daee7fb6449571}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Handbook of the Economics of Finance}
+      \field{title}{A Survey of Behavioral Finance}
+      \field{year}{2003}
+    \endentry
+    \entry{chaboud2023}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b9f299b0839e6dad75f3e74ef1c67989}{%
+           family={Chaboud},
+           familyi={C\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b9f299b0839e6dad75f3e74ef1c67989}
+      \strng{fullhash}{b9f299b0839e6dad75f3e74ef1c67989}
+      \strng{bibnamehash}{b9f299b0839e6dad75f3e74ef1c67989}
+      \strng{authorbibnamehash}{b9f299b0839e6dad75f3e74ef1c67989}
+      \strng{authornamehash}{b9f299b0839e6dad75f3e74ef1c67989}
+      \strng{authorfullhash}{b9f299b0839e6dad75f3e74ef1c67989}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Foreign Exchange Market}
+      \field{type}{techreport}
+      \field{year}{2023}
+    \endentry
+    \entry{elder2014}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d62736acfe64f90c48685e4461d6e47f}{%
+           family={Elder},
+           familyi={E\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d62736acfe64f90c48685e4461d6e47f}
+      \strng{fullhash}{d62736acfe64f90c48685e4461d6e47f}
+      \strng{bibnamehash}{d62736acfe64f90c48685e4461d6e47f}
+      \strng{authorbibnamehash}{d62736acfe64f90c48685e4461d6e47f}
+      \strng{authornamehash}{d62736acfe64f90c48685e4461d6e47f}
+      \strng{authorfullhash}{d62736acfe64f90c48685e4461d6e47f}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Come into My Trading Room: A Complete Guide to Trading}
+      \field{year}{2014}
+    \endentry
+    \entry{esma2018}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18b31650952cc68f7c8a7fd2c70a2bdd}{%
+           family={{European Securities and Markets Authority}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{fullhash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{bibnamehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authorbibnamehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authornamehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authorfullhash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Product Intervention Measures on CFDs and Binary Options}
+      \field{year}{2018}
+    \endentry
+    \entry{fabozzi2015}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7a0ba49bf20286401776ed4f4cf32ca5}{%
+           family={Fabozzi},
+           familyi={F\bibinitperiod},
+           given={Frank\bibnamedelima J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7a0ba49bf20286401776ed4f4cf32ca5}
+      \strng{fullhash}{7a0ba49bf20286401776ed4f4cf32ca5}
+      \strng{bibnamehash}{7a0ba49bf20286401776ed4f4cf32ca5}
+      \strng{authorbibnamehash}{7a0ba49bf20286401776ed4f4cf32ca5}
+      \strng{authornamehash}{7a0ba49bf20286401776ed4f4cf32ca5}
+      \strng{authorfullhash}{7a0ba49bf20286401776ed4f4cf32ca5}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Handbook of Finance}
+      \field{year}{2015}
+    \endentry
+    \entry{furman2016}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=badabbec7b1272b36f3e6ab2b325c2ed}{%
+           family={Furman},
+           familyi={F\bibinitperiod},
+           given={Łukasz},
+           giveni={Ł\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f967ae37c575bd24b48b5e2ff54977e}{%
+           family={Hańczyk},
+           familyi={H\bibinitperiod},
+           given={Andrzej},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3b1f56807dad12b12f4fadca3fb06c7b}
+      \strng{fullhash}{3b1f56807dad12b12f4fadca3fb06c7b}
+      \strng{bibnamehash}{3b1f56807dad12b12f4fadca3fb06c7b}
+      \strng{authorbibnamehash}{3b1f56807dad12b12f4fadca3fb06c7b}
+      \strng{authornamehash}{3b1f56807dad12b12f4fadca3fb06c7b}
+      \strng{authorfullhash}{3b1f56807dad12b12f4fadca3fb06c7b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aspekty funkcjonowania rynku FOREX w Polsce}
+      \field{year}{2016}
+    \endentry
+    \entry{harris2003}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=02685489f9afbb8e62f751914d85819f}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Larry},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{02685489f9afbb8e62f751914d85819f}
+      \strng{fullhash}{02685489f9afbb8e62f751914d85819f}
+      \strng{bibnamehash}{02685489f9afbb8e62f751914d85819f}
+      \strng{authorbibnamehash}{02685489f9afbb8e62f751914d85819f}
+      \strng{authornamehash}{02685489f9afbb8e62f751914d85819f}
+      \strng{authorfullhash}{02685489f9afbb8e62f751914d85819f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Trading and Exchanges: Market Microstructure for Practitioners}
+      \field{year}{2003}
+    \endentry
+    \entry{hull2018}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ceecd71c7d27182f0b52772476b8cc16}{%
+           family={Hull},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ceecd71c7d27182f0b52772476b8cc16}
+      \strng{fullhash}{ceecd71c7d27182f0b52772476b8cc16}
+      \strng{bibnamehash}{ceecd71c7d27182f0b52772476b8cc16}
+      \strng{authorbibnamehash}{ceecd71c7d27182f0b52772476b8cc16}
+      \strng{authornamehash}{ceecd71c7d27182f0b52772476b8cc16}
+      \strng{authorfullhash}{ceecd71c7d27182f0b52772476b8cc16}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{9}
+      \field{title}{Options, Futures, and Other Derivatives}
+      \field{year}{2018}
+    \endentry
+    \entry{kahneman2011}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
+           family={Kahneman},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{fullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{bibnamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authorbibnamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authornamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authorfullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thinking, Fast and Slow}
+      \field{year}{2011}
+    \endentry
+    \entry{keynes1936}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=612862f6008b8bea8cd4a13783af9a93}{%
+           family={Keynes},
+           familyi={K\bibinitperiod},
+           given={John\bibnamedelima Maynard},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{612862f6008b8bea8cd4a13783af9a93}
+      \strng{fullhash}{612862f6008b8bea8cd4a13783af9a93}
+      \strng{bibnamehash}{612862f6008b8bea8cd4a13783af9a93}
+      \strng{authorbibnamehash}{612862f6008b8bea8cd4a13783af9a93}
+      \strng{authornamehash}{612862f6008b8bea8cd4a13783af9a93}
+      \strng{authorfullhash}{612862f6008b8bea8cd4a13783af9a93}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The General Theory of Employment, Interest and Money}
+      \field{year}{1936}
+    \endentry
+    \entry{knf2023}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=476bd0b47dadc589b925dbe3b3976dc8}{%
+           family={{Komisja Nadzoru Finansowego}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Komisja Nadzoru Finansowego}%
+      }
+      \strng{namehash}{476bd0b47dadc589b925dbe3b3976dc8}
+      \strng{fullhash}{476bd0b47dadc589b925dbe3b3976dc8}
+      \strng{bibnamehash}{476bd0b47dadc589b925dbe3b3976dc8}
+      \strng{authorbibnamehash}{476bd0b47dadc589b925dbe3b3976dc8}
+      \strng{authornamehash}{476bd0b47dadc589b925dbe3b3976dc8}
+      \strng{authorfullhash}{476bd0b47dadc589b925dbe3b3976dc8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Raport o rynku Forex w Polsce 2023}
+      \field{type}{techreport}
+      \field{year}{2023}
+    \endentry
+    \entry{madura2018}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=766393abf7dbcec9c5297beac7c5097b}{%
+           family={Madura},
+           familyi={M\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{766393abf7dbcec9c5297beac7c5097b}
+      \strng{fullhash}{766393abf7dbcec9c5297beac7c5097b}
+      \strng{bibnamehash}{766393abf7dbcec9c5297beac7c5097b}
+      \strng{authorbibnamehash}{766393abf7dbcec9c5297beac7c5097b}
+      \strng{authornamehash}{766393abf7dbcec9c5297beac7c5097b}
+      \strng{authorfullhash}{766393abf7dbcec9c5297beac7c5097b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{13}
+      \field{title}{International Financial Management}
+      \field{year}{2018}
+    \endentry
+    \entry{melvin2013}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a0dc7ea709611e352e85696d469ecf00}{%
+           family={Melvin},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a0dc7ea709611e352e85696d469ecf00}
+      \strng{fullhash}{a0dc7ea709611e352e85696d469ecf00}
+      \strng{bibnamehash}{a0dc7ea709611e352e85696d469ecf00}
+      \strng{authorbibnamehash}{a0dc7ea709611e352e85696d469ecf00}
+      \strng{authornamehash}{a0dc7ea709611e352e85696d469ecf00}
+      \strng{authorfullhash}{a0dc7ea709611e352e85696d469ecf00}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{8}
+      \field{title}{International Money and Finance}
+      \field{year}{2013}
+    \endentry
+    \entry{mishkin2019}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d53846c752552993eb4d540ed83a6a2f}{%
+           family={Mishkin},
+           familyi={M\bibinitperiod},
+           given={Frederic\bibnamedelima S.},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d53846c752552993eb4d540ed83a6a2f}
+      \strng{fullhash}{d53846c752552993eb4d540ed83a6a2f}
+      \strng{bibnamehash}{d53846c752552993eb4d540ed83a6a2f}
+      \strng{authorbibnamehash}{d53846c752552993eb4d540ed83a6a2f}
+      \strng{authornamehash}{d53846c752552993eb4d540ed83a6a2f}
+      \strng{authorfullhash}{d53846c752552993eb4d540ed83a6a2f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{12}
+      \field{title}{The Economics of Money, Banking, and Financial Markets}
+      \field{year}{2019}
+    \endentry
+    \entry{mishkin2018}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d53846c752552993eb4d540ed83a6a2f}{%
+           family={Mishkin},
+           familyi={M\bibinitperiod},
+           given={Frederic\bibnamedelima S.},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9886c98b79d216d7c8b12d498c8596c0}{%
+           family={Eakins},
+           familyi={E\bibinitperiod},
+           given={Stanley\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d5d9f973cb0e31dd088fc538a08a71fb}
+      \strng{fullhash}{d5d9f973cb0e31dd088fc538a08a71fb}
+      \strng{bibnamehash}{d5d9f973cb0e31dd088fc538a08a71fb}
+      \strng{authorbibnamehash}{d5d9f973cb0e31dd088fc538a08a71fb}
+      \strng{authornamehash}{d5d9f973cb0e31dd088fc538a08a71fb}
+      \strng{authorfullhash}{d5d9f973cb0e31dd088fc538a08a71fb}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{9}
+      \field{title}{Financial Markets and Institutions}
+      \field{year}{2018}
+    \endentry
+    \entry{murphy1999}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6057c95fca1e19549d2c6728b7292ee2}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6057c95fca1e19549d2c6728b7292ee2}
+      \strng{fullhash}{6057c95fca1e19549d2c6728b7292ee2}
+      \strng{bibnamehash}{6057c95fca1e19549d2c6728b7292ee2}
+      \strng{authorbibnamehash}{6057c95fca1e19549d2c6728b7292ee2}
+      \strng{authornamehash}{6057c95fca1e19549d2c6728b7292ee2}
+      \strng{authorfullhash}{6057c95fca1e19549d2c6728b7292ee2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Technical Analysis of the Financial Markets}
+      \field{year}{1999}
+    \endentry
+    \entry{nbp2022}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a55f9e8e3a61f770bd256a93fd1d2564}{%
+           family={{Narodowy Bank Polski}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Narodowy Bank Polski}%
+      }
+      \strng{namehash}{a55f9e8e3a61f770bd256a93fd1d2564}
+      \strng{fullhash}{a55f9e8e3a61f770bd256a93fd1d2564}
+      \strng{bibnamehash}{a55f9e8e3a61f770bd256a93fd1d2564}
+      \strng{authorbibnamehash}{a55f9e8e3a61f770bd256a93fd1d2564}
+      \strng{authornamehash}{a55f9e8e3a61f770bd256a93fd1d2564}
+      \strng{authorfullhash}{a55f9e8e3a61f770bd256a93fd1d2564}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wyniki badania rynku walutowego i rynku pozagiełdowych instrumentów pochodnych w Polsce w 2022 roku}
+      \field{type}{techreport}
+      \field{year}{2022}
+    \endentry
+    \entry{shefrin2007}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a4e1e63694144967ea2ecce84a1c96d5}{%
+           family={Shefrin},
+           familyi={S\bibinitperiod},
+           given={Hersh},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a4e1e63694144967ea2ecce84a1c96d5}
+      \strng{fullhash}{a4e1e63694144967ea2ecce84a1c96d5}
+      \strng{bibnamehash}{a4e1e63694144967ea2ecce84a1c96d5}
+      \strng{authorbibnamehash}{a4e1e63694144967ea2ecce84a1c96d5}
+      \strng{authornamehash}{a4e1e63694144967ea2ecce84a1c96d5}
+      \strng{authorfullhash}{a4e1e63694144967ea2ecce84a1c96d5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Beyond Greed and Fear: Understanding Behavioral Finance and the Psychology of Investing}
+      \field{year}{2007}
+    \endentry
+    \entry{shleifer2000}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=73d7bf2d3105674f373111fc7356eec3}{%
+           family={Shleifer},
+           familyi={S\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{73d7bf2d3105674f373111fc7356eec3}
+      \strng{fullhash}{73d7bf2d3105674f373111fc7356eec3}
+      \strng{bibnamehash}{73d7bf2d3105674f373111fc7356eec3}
+      \strng{authorbibnamehash}{73d7bf2d3105674f373111fc7356eec3}
+      \strng{authornamehash}{73d7bf2d3105674f373111fc7356eec3}
+      \strng{authorfullhash}{73d7bf2d3105674f373111fc7356eec3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Inefficient Markets: An Introduction to Behavioral Finance}
+      \field{year}{2000}
+    \endentry
+    \entry{zukowski2014}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=535cf37b680b554b2ec2c4bb946aef04}{%
+           family={Żukowski},
+           familyi={Ż\bibinitperiod},
+           given={Piotr},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{535cf37b680b554b2ec2c4bb946aef04}
+      \strng{fullhash}{535cf37b680b554b2ec2c4bb946aef04}
+      \strng{bibnamehash}{535cf37b680b554b2ec2c4bb946aef04}
+      \strng{authorbibnamehash}{535cf37b680b554b2ec2c4bb946aef04}
+      \strng{authornamehash}{535cf37b680b554b2ec2c4bb946aef04}
+      \strng{authorfullhash}{535cf37b680b554b2ec2c4bb946aef04}
+      \field{sortinit}{Ż}
+      \field{sortinithash}{e8feee526060f7a484a6388c13c5056c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rynek walutowy jako przykład rynku wirtualnego}
+      \field{year}{2014}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
